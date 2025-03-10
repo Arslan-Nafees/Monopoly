@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Monopoly</string>
+    
+    <!-- Main Menu -->
+    <string name="start_new_game">Start New Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    
+    <!-- Game Setup -->
+    <string name="player_name">Player Name</string>
+    <string name="create_game">Create Game</string>
+    <string name="join_game_code">Enter Game Code</string>
+    <string name="number_of_players">Number of Players</string>
+    <string name="game_time_limit">Game Time Limit</string>
+    <string name="unlimited">Unlimited</string>
+    <string name="minutes_30">30 Minutes</string>
+    <string name="minutes_60">60 Minutes</string>
+    <string name="minutes_90">90 Minutes</string>
+    
+    <!-- Game Play -->
+    <string name="roll_dice">Roll Dice</string>
+    <string name="end_turn">End Turn</string>
+    <string name="buy_property">Buy</string>
+    <string name="auction_property">Auction</string>
+    <string name="build_house">Build House</string>
+    <string name="build_hotel">Build Hotel</string>
+    <string name="mortgage">Mortgage</string>
+    <string name="unmortgage">Unmortgage</string>
+    <string name="your_turn">Your Turn!</string>
+    <string name="trade">Trade</string>
+    <string name="view_properties">Properties</string>
+    <string name="cash">Cash: $%1$d</string>
+    
+    <!-- Property Details -->
+    <string name="property_rent">Rent: $%1$d</string>
+    <string name="property_rent_with_color_set">Rent with color set: $%1$d</string>
+    <string name="property_house_rent_1">With 1 House: $%1$d</string>
+    <string name="property_house_rent_2">With 2 Houses: $%1$d</string>
+    <string name="property_house_rent_3">With 3 Houses: $%1$d</string>
+    <string name="property_house_rent_4">With 4 Houses: $%1$d</string>
+    <string name="property_hotel_rent">With Hotel: $%1$d</string>
+    <string name="property_mortgage_value">Mortgage Value: $%1$d</string>
+    <string name="property_house_cost">House Cost: $%1$d each</string>
+    <string name="property_hotel_cost">Hotel Cost: $%1$d each</string>
+    
+    <!-- Game Events -->
+    <string name="go_collect">Collect $200 as you pass GO</string>
+    <string name="jail">Go to Jail</string>
+    <string name="chance">Chance</string>
+    <string name="community_chest">Community Chest</string>
+    <string name="income_tax">Income Tax</string>
+    <string name="luxury_tax">Luxury Tax</string>
+    <string name="free_parking">Free Parking</string>
+    
+    <!-- Multiplayer -->
+    <string name="waiting_for_players">Waiting for players to join…</string>
+    <string name="player_joined">%1$s has joined the game</string>
+    <string name="player_left">%1$s has left the game</string>
+    <string name="game_code">Game Code: %1$s</string>
+    <string name="connection_lost">Connection lost. Trying to reconnect…</string>
+    
+    <!-- Misc -->
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+</resources> 

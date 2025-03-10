@@ -1,0 +1,46 @@
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Theme colors -->
+    <color name="primary">#006E51</color>
+    <color name="primary_dark">#004D38</color>
+    <color name="primary_light">#4C9F86</color>
+    <color name="secondary">#FF5722</color>
+    <color name="secondary_dark">#C41C00</color>
+    <color name="secondary_light">#FF8A50</color>
+    
+    <!-- Property colors -->
+    <color name="property_brown">#955436</color>
+    <color name="property_light_blue">#AAE0FA</color>
+    <color name="property_pink">#D93A96</color>
+    <color name="property_orange">#F7941D</color>
+    <color name="property_red">#ED1B24</color>
+    <color name="property_yellow">#FEF200</color>
+    <color name="property_green">#1FB25A</color>
+    <color name="property_dark_blue">#0072BB</color>
+    
+    <!-- Game board colors -->
+    <color name="board_background">#CAE7DF</color>
+    <color name="board_border">#006E51</color>
+    <color name="dice_background">#FFFFFF</color>
+    <color name="dice_dots">#000000</color>
+    
+    <!-- Player piece colors -->
+    <color name="player_red">#E51E2A</color>
+    <color name="player_blue">#0B24FB</color>
+    <color name="player_green">#1FB25A</color>
+    <color name="player_yellow">#FEF200</color>
+    <color name="player_purple">#A020F0</color>
+    <color name="player_orange">#FF8C00</color>
+    <color name="player_pink">#FF69B4</color>
+    <color name="player_teal">#008080</color>
+    
+    <!-- UI element colors -->
+    <color name="background_default">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+</resources> 
